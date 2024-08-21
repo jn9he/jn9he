@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### My name is Joshua Nghe, and I'm currently a student, and an aspiring developer 
+
 <!--
 **jn9he/jn9he** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
