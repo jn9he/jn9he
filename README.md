@@ -2,6 +2,7 @@
 
 ### My name is Joshua Nghe, and I'm currently a student, and an aspiring developer 
 
+### Below you can find a few projects from class, and some personal projects that I am proud of.
 <!--
 **jn9he/jn9he** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
