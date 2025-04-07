@@ -7,4 +7,4 @@
 
 You can connect with me on [linkedIn](linkedin.com/joshuanghe)
 
-or contact me via my email -> jreg.nghe@outlook.com
+or via my email -> jreg.nghe@outlook.com
